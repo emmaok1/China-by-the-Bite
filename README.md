@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="media/cover.jpg" alt="China by the Bite — a pocket food guide to Hangzhou, Beijing and Guangzhou" width="100%">
+  <img src="media/cover.jpg" alt="China by the Bite — a food and travel guide to Hangzhou, Beijing and Guangzhou" width="100%">
 </p>
 
-# China by the Bite
+# China by the Bite — A Food & Travel Guide
 
-Order from a photo, find the shop that serves the dish, then take a walk. This English-language pocket guide follows a trip through **Hangzhou, Beijing and Guangzhou**, with Chinese dish names you can show at the table.
+Find local dishes, historic sights and half-day walks in **Hangzhou, Beijing and Guangzhou**.
 
 | City | At the table | On foot |
 | --- | --- | --- |
