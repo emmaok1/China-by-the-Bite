@@ -1,0 +1,282 @@
+{
+  "lake2": {
+    "url": "https://commons.wikimedia.org/wiki/File:Sunset_with_Leifeng_Pagoda_on_West_Lake.jpg",
+    "artist": "Yinweichen",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Sunset with Leifeng Pagoda on West Lake.jpg"
+  },
+  "shrimp": {
+    "url": "https://commons.wikimedia.org/wiki/File:Longjing_prawns_in_Hangzhou_Restaurant_2015-07.JPG",
+    "artist": "猫猫的日记本",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Longjing prawns in Hangzhou Restaurant 2015-07.JPG"
+  },
+  "pork": {
+    "url": "https://commons.wikimedia.org/wiki/File:Dongpo_pork_by_superturtle.jpg",
+    "artist": "superturtle",
+    "license": "CC BY 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by/2.0",
+    "name": "File:Dongpo pork by superturtle.jpg"
+  },
+  "noodle": {
+    "url": "https://commons.wikimedia.org/wiki/File:%E7%89%87%E5%84%BF%E5%B7%9D_20260730.jpg",
+    "artist": "Huangchinhsu",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:片儿川 20260730.jpg"
+  },
+  "pancake": {
+    "url": "https://commons.wikimedia.org/wiki/File:%E8%91%B1%E5%8C%85%E6%A1%A7.jpg",
+    "artist": "Gu0427",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:葱包桧.jpg"
+  },
+  "temple": {
+    "url": "https://commons.wikimedia.org/wiki/File:Lingyin_Temple,_Hangzhou_20161003.jpg",
+    "artist": "Tyg728",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Lingyin Temple, Hangzhou 20161003.jpg"
+  },
+  "tea": {
+    "url": "https://commons.wikimedia.org/wiki/File:Tea_plantations_in_Longjing,_Hangzhou.jpg",
+    "artist": "Wishva de Silva",
+    "license": "CC BY-SA 3.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "name": "File:Tea plantations in Longjing, Hangzhou.jpg"
+  },
+  "palace": {
+    "url": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "artist": "Pixelflake",
+    "license": "CC BY-SA 3.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "name": "File:The Forbidden City - View from Coal Hill.jpg"
+  },
+  "duck": {
+    "url": "https://commons.wikimedia.org/wiki/File:Sliced_Peking_Duck_with_traditional_condiments.jpg",
+    "artist": "Daifawei",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Sliced Peking Duck with traditional condiments.jpg"
+  },
+  "sauce": {
+    "url": "https://commons.wikimedia.org/wiki/File:Zhajiangmian_before_stirring_at_Fangzhuanchang_(20210115130756).jpg",
+    "artist": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Zhajiangmian before stirring at Fangzhuanchang (20210115130756).jpg"
+  },
+  "pot": {
+    "url": "https://commons.wikimedia.org/wiki/File:Instant-boiled_mutton_hot_pot_at_Yangfang_Shengli_(20200111153612).jpg",
+    "artist": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Instant-boiled mutton hot pot at Yangfang Shengli (20200111153612).jpg"
+  },
+  "fruit": {
+    "url": "https://commons.wikimedia.org/wiki/File:TangHuLu.JPG",
+    "artist": "Popo le Chien",
+    "license": "CC0",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "name": "File:TangHuLu.JPG"
+  },
+  "hill": {
+    "url": "https://commons.wikimedia.org/wiki/File:Wanchun_Pavilion,_Jingshan_Park,_Beijing_-_November_2016_-_113.jpg",
+    "artist": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Wanchun Pavilion, Jingshan Park, Beijing - November 2016 - 113.jpg"
+  },
+  "hutong": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hutong,_BJ_(2917153763).jpg",
+    "artist": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+    "license": "CC BY-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "name": "File:Hutong, BJ (2917153763).jpg"
+  },
+  "river": {
+    "url": "https://commons.wikimedia.org/wiki/File:Canton_Tower_at_night_Guangzhou_2024_dllu.jpg",
+    "artist": "Daniel Lu ( User:dllu )",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Canton Tower at night Guangzhou 2024 dllu.jpg"
+  },
+  "dumpling": {
+    "url": "https://commons.wikimedia.org/wiki/File:Har_Gow_at_Canal_Luna_restaurant,_InterContinental_Guangzhou_Exhibition_Center_(20180923125523).jpg",
+    "artist": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Har Gow at Canal Luna restaurant, InterContinental Guangzhou Exhibition Center (20180923125523).jpg"
+  },
+  "siu": {
+    "url": "https://commons.wikimedia.org/wiki/File:Pork_Siu_Mai_with_Tobiko.JPG",
+    "artist": "Ceeseven",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Pork Siu Mai with Tobiko.JPG"
+  },
+  "roll": {
+    "url": "https://commons.wikimedia.org/wiki/File:Rice_noodle_roll_%E8%85%B8%E7%B2%89_Tim_Ho_Wan,_the_Dim-Sum_Specialists,_Sham_Shui_Po_%E6%B7%BB%E5%A5%BD%E9%81%8B%E9%BB%9E%E5%BF%83%E5%B0%88%E9%96%80%E5%BA%97,_%E6%B7%B1%E6%B0%B4%E5%9F%97_SML.20120820.G12.00089_(7884987988).jpg",
+    "artist": "See-ming Lee from Hong Kong SAR, China",
+    "license": "CC BY-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "name": "File:Rice noodle roll 腸粉 Tim Ho Wan, the Dim-Sum Specialists, Sham Shui Po 添好運點心專門店, 深水埗 SML.20120820.G12.00089 (7884987988).jpg"
+  },
+  "bun": {
+    "url": "https://commons.wikimedia.org/wiki/File:07_Char_Siu_Bao_-_Steamed_Pork_Buns_-_East_Harbor_Seafood_Palace.jpg",
+    "artist": "jasonlam",
+    "license": "CC BY-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "name": "File:07 Char Siu Bao - Steamed Pork Buns - East Harbor Seafood Palace.jpg"
+  },
+  "lane": {
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%B9%BF%E5%B7%9E%E6%B0%B8%E5%BA%86%E5%9D%8A.jpg",
+    "artist": "钉钉",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:广州永庆坊.jpg"
+  },
+  "island": {
+    "url": "https://commons.wikimedia.org/wiki/File:Shamian_Island_03144-Guangzhou_(32604466380).jpg",
+    "artist": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by/2.0",
+    "name": "File:Shamian Island 03144-Guangzhou (32604466380).jpg"
+  },
+  "vinegar": {
+    "url": "https://commons.wikimedia.org/wiki/File:West_Lake_Fish_in_Vinegar_Gravy.jpg",
+    "artist": "Zheng Zhou",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:West Lake Fish in Vinegar Gravy.jpg"
+  },
+  "lotusroot": {
+    "url": "https://commons.wikimedia.org/wiki/File:Stuffed_lotus_root_with_sticky_rice.jpg",
+    "artist": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "name": "File:Stuffed lotus root with sticky rice.jpg"
+  },
+  "songsoup": {
+    "url": "https://commons.wikimedia.org/wiki/File:Sister_Song%27s_Fish_Soup_(%E5%AE%8B%E5%AB%82%E9%AD%9A%E7%BE%B9).png",
+    "artist": "NeoBatfreak",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Sister Song's Fish Soup (宋嫂魚羹).png"
+  },
+  "ribs": {
+    "url": "https://commons.wikimedia.org/wiki/File:Michelle%27s_%E7%B3%96%E9%86%8B%E5%B0%8F%E6%8E%92%E9%AA%A8_Black_Vinegar_Pork_(3666844888).jpg",
+    "artist": "Alpha from Melbourne, Australia",
+    "license": "CC BY-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "name": "File:Michelle's 糖醋小排骨 Black Vinegar Pork (3666844888).jpg"
+  },
+  "fishhead": {
+    "url": "https://commons.wikimedia.org/wiki/File:%E5%8D%83%E5%B2%9B%E6%B9%96%E9%B1%BC%E5%A4%B4%E8%B1%86%E8%85%90%E6%B1%A4.jpg",
+    "artist": "唐戈",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:千岛湖鱼头豆腐汤.jpg"
+  },
+  "soupbao": {
+    "url": "https://commons.wikimedia.org/wiki/File:Xin_Feng_Xiao_Chi,_Xiao_Long_%26_Wonton.jpg",
+    "artist": "Gu0427",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Xin Feng Xiao Chi, Xiao Long & Wonton.jpg"
+  },
+  "lambbbq": {
+    "url": "https://commons.wikimedia.org/wiki/File:Zhizi_Kaorou,_mutton_after_roasting_(20220219182001).jpg",
+    "artist": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Zhizi Kaorou, mutton after roasting (20220219182001).jpg"
+  },
+  "donkeyroll": {
+    "url": "https://commons.wikimedia.org/wiki/File:Donkey_roll.jpg",
+    "artist": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseurl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "name": "File:Donkey roll.jpg"
+  },
+  "peacake": {
+    "url": "https://commons.wikimedia.org/wiki/File:Pea_flour_cakes_(20210215172834).jpg",
+    "artist": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Pea flour cakes (20210215172834).jpg"
+  },
+  "shaobing": {
+    "url": "https://commons.wikimedia.org/wiki/File:Sesame_Shaobing.jpg",
+    "artist": "ZhengZhou",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:Sesame Shaobing.jpg"
+  },
+  "poached": {
+    "url": "https://commons.wikimedia.org/wiki/File:BeiQieJi-WhiteCutChicken.jpg",
+    "artist": "Sjschen",
+    "license": "CC BY-SA 3.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "name": "File:BeiQieJi-WhiteCutChicken.jpg"
+  },
+  "goose": {
+    "url": "https://commons.wikimedia.org/wiki/File:Cantonese_roast_goose_served_in_Guangzhou,_China,_June_2026.jpg",
+    "artist": "Guangzhou Private Tours by Janvi",
+    "license": "CC BY 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by/4.0",
+    "name": "File:Cantonese roast goose served in Guangzhou, China, June 2026.jpg"
+  },
+  "charsiu": {
+    "url": "https://commons.wikimedia.org/wiki/File:Char_siu_pieces.jpg",
+    "artist": "Michael",
+    "license": "Public domain",
+    "licenseurl": "",
+    "name": "File:Char siu pieces.jpg"
+  },
+  "wonton": {
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%B2%9C%E8%99%BE%E7%BB%86%E5%AE%B9%E4%BA%91%E5%90%9E%E9%9D%A2%EF%BC%882025%E5%B9%B48%E6%9C%8821%E6%97%A5%EF%BC%89.jpg",
+    "artist": "茅野ふたば",
+    "license": "CC BY-SA 4.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "name": "File:鲜虾细容云吞面（2025年8月21日）.jpg"
+  },
+  "lotuspastry": {
+    "url": "https://www.flickr.com/photos/93512023@N00/3252519600",
+    "artist": "jasonlam",
+    "license": "CC BY-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "name": "45 lotus bean paste filled flower pastry"
+  },
+  "victory": {
+    "url": "https://www.flickr.com/photos/20317015@N00/280756855",
+    "artist": "kaurjmeb",
+    "license": "CC BY-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "name": "定勝糕"
+  },
+  "oilshrimp": {
+    "url": "https://www.flickr.com/photos/47038415@N00/324947978",
+    "artist": "Augapfel",
+    "license": "CC BY 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by/2.0/",
+    "name": "油爆虾 Shrimp Stir Fried in Soy Sauce"
+  },
+  "soyduck": {
+    "url": "https://www.flickr.com/photos/10705048@N00/205772333",
+    "artist": "sunday driver",
+    "license": "CC BY-NC-SA 2.0",
+    "licenseurl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "name": "DSC_1255"
+  },
+  "slowbeef": {
+    "url": "https://commons.wikimedia.org/wiki/File:Wagyu_beef_marbling_detail.jpg",
+    "name": "File:Wagyu beef marbling detail.jpg",
+    "artist": "originally uploaded by User:Schellack",
+    "license": "Public domain",
+    "licenseurl": ""
+  }
+}
