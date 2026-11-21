@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#faf8f1">
+  <meta name="description" content="A photo-led pocket guide to the food and sights of Hangzhou, Beijing and Guangzhou.">
+  <title>China by the Bite</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><div class="bar">
+    <a href="#hangzhou/eat" class="brand"><img src="icon.svg" alt=""><span>China by the Bite</span></a>
+    <nav class="cities" id="cities" aria-label="Choose a city"></nav>
+  </div></header>
+  <main>
+    <section class="hero" id="hero" aria-label="Current city"></section>
+    <section id="content" aria-live="polite"></section>
+  </main>
+  <footer><span>China by the Bite</span><button id="credits">Photo credits</button></footer>
+  <nav class="dock" aria-label="Main navigation"><div id="dock-links"></div></nav>
+  <dialog id="sheet"><div class="dialog-body" id="sheet-body"></div><button class="close" aria-label="Close dialog">×</button></dialog>
+  <script src="guide.js"></script>
+  <script src="food.js"></script>
+  <script src="app.js"></script>
+</body></html>
