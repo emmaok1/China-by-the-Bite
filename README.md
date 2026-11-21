@@ -4,7 +4,7 @@
 
 # China by the Bite — A City Guide to Sights & Local Food
 
-Explore China’s cities through photos of lakeside paths, historic landmarks and neighborhood dishes. Tap a sight to discover its story, find a shop that serves a dish you want to try, or follow a half-day walking route.
+Explore China’s cities through photos of scenic spots, historic landmarks and local food. Tap a landmark for its story, a dish for a place to try it, or a walking route for an afternoon of exploring.
 
 <img src="media/mobile-preview.jpg" alt="The mobile guide showing local dishes, a pastry with its recommended shop, and a gallery of city sights" width="100%">
 
